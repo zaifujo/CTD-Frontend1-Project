@@ -11,3 +11,5 @@ CLAUDIO VAN ANGHELO FLORES UCEDA:
  - Footer
 
 Para los estilos generales, nombre de las clases, codigo repetido, variables nos pusimos de acuerdo para que el trabajo sea uniforme.
+
+Github Pages: https://zaifujo.github.io/CTD-Frontend1-Project/
